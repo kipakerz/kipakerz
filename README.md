@@ -11,7 +11,9 @@
   <a href="mailto:farhan131828hidayat@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EMAILKAMU@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/username-kamu">
+  <a href="https://linkedin.com/in/farhan-hidayat-6b6a3238a
+
+">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -24,7 +26,7 @@
 - Currently building full-stack web applications and exploring backend architecture, networking, and Linux administration.
 - Focused on strengthening skills in **Web Development**, **Database Management**, and **Cybersecurity**.
 - Actively looking for **Software Engineering / Web Development Internship** opportunities.
-- Contact: [emailkamu@gmail.com](mailto:emailkamu@gmail.com)
+- Contact: [emailkamu@gmail.com](mailto:farhan131828hidayat@gmail.com)
 
 ---
 
